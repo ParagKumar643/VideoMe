@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "446434792856",
+    "firebase_url": "https://videome-de99a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "videome-de99a",
+    "storage_bucket": "videome-de99a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446434792856:android:3be9c6f76ecfe4067487ed",
+        "android_client_info": {
+          "package_name": "com.example.videomefree12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446434792856-5ck693iep5q41ut75ittdp61j6iescp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.videomefree12",
+            "certificate_hash": "eb82be61d95a3d0d1cf5f2b4f57e28d1c222d5c4"
+          }
+        },
+        {
+          "client_id": "446434792856-4n4ius01df4avs2q5vjuerfmf94qqdoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1wu1JHXcMQtxmIm8elSiq745XJyhS3aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446434792856-4n4ius01df4avs2q5vjuerfmf94qqdoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

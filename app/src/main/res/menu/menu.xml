@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/gamesmenu"
+        android:icon="@drawable/games"
+        android:title="Games" />
+    <item
+        android:id="@+id/music"
+        android:icon="@drawable/music"
+        android:title="Music" />
+    <item
+        android:icon="@drawable/logout"
+        android:title="Logout" />
+</menu>
